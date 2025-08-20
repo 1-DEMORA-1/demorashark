@@ -2,7 +2,7 @@
 
 Ресурспак:
 ```resource-pack=https://download.mc-packs.net/pack/d095fa7b486d9436601b75f09b712504823827e6.zip
-resource-pack-sha1=d095fa7b486d9436601b75f09b712504823827e6```
+resource-pack-sha1=d095fa7b486d9436601b75f09b712504823827e6
 
 ## Заморозка
 
